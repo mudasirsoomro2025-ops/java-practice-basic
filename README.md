@@ -26,3 +26,11 @@ Real standalone Java programs for beginners. These files are suitable for Eclips
 4. Right-click inside the editor and choose **Run As > Java Application**.
 
 Each program is independent and has its own `main` method. No fake placeholder code is included.
+
+## Methods and Functions
+
+- `FunctionGreeting.java` — Basic method
+- `FunctionAddNumbers.java` — Method with parameters and return value
+- `FunctionEvenOdd.java` — Boolean method
+- `FunctionFactorial.java` — Method with a loop
+- `FunctionLargest.java` — Method for finding the largest number
