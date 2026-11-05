@@ -34,3 +34,11 @@ Each program is independent and has its own `main` method. No fake placeholder c
 - `FunctionEvenOdd.java` — Boolean method
 - `FunctionFactorial.java` — Method with a loop
 - `FunctionLargest.java` — Method for finding the largest number
+
+## Advanced Practice
+
+- `AdvancedArrayStatistics.java` — Array sum, average, largest, and smallest values
+- `AdvancedStringPalindrome.java` — String comparison with a palindrome method
+- `AdvancedRecursiveFibonacci.java` — Fibonacci series using recursion
+- `AdvancedBubbleSort.java` — Sorting an array with bubble sort
+- `AdvancedFileWriteRead.java` — Writing to and reading from a text file
